@@ -14,7 +14,7 @@ from typing import Optional
 
 import requests
 
-API_BASE = "f03dc5244587b0dfc60cdf7eec017bfa9f160af92ff5b42c7b0d4d28776debf5"
+API_BASE = "Your Key"
 
 
 class VirusTotalClient:
