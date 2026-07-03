@@ -9,7 +9,7 @@ import json
 
 import requests
 
-
+API_URL = "Your Key"
 SYSTEM_PROMPT = (
     "당신은 보안 분석가입니다. 사용자가 제공하는 이메일이나 텍스트가 "
     "피싱(phishing), 사기, 악성 시도일 가능성을 분석하세요. "
